@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "nama": "Fickey",
+      "inOrder":"WhatsApp",
+      "email": "fickey@mail.com",
+      "noHP": "0812345678",
+      "Qty": 2,
+      "Ket": "diambil jam 15.00"
+    },
+    {
+      "id": 2,
+      "nama": "Epan",
+      "inOrder":"Call",
+      "email": "epan@mail.com",
+      "noHP": "089898989",
+      "Qty": 2,
+      "Ket": "diambil jam 7.00 (pagi)"
+    }
+  ]
+  

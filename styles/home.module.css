@@ -1,0 +1,10 @@
+
+.bgh1 {
+  /* background-color: #82c0e1; */
+  color: white;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  height: 60px;
+  padding: 20px;
+}
